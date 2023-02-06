@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Scouting Omega 2.0<br>I am fluent in Java<br>I am intermediate in Python<br>I am learning C++<br>I am lead of programming on FRC Omegabytes 5727
+I am currently working on this years FRC Charged Up! Robot Code!<br>I am fluent in Java<br>I am intermediate in Python<br>I am learning C++<br>I am lead of programming on FRC Omegabytes 5727
 
 
 ## 🌐 Socials:
