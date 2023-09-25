@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on this years FRC Charged Up! Robot Code! and Project Gamma.<br>I am fluent in Java, C++<br>I am intermediate in Python<br>I am learning C#<br>I am lead of programming on FRC Lynk Robotics
+I am currently working on this years FRC Charged Up! Robot Code! and Project Gamma.<br>I am fluent in Java, C++<br>I am intermediate in Python<br>I am learning C#<br>I am lead of programming on FRC Lynk Robotics / Past FRC Omegabytes Lead Programmer
 
 
 # 💻 Tech Stack:
