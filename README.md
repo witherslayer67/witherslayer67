@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on this years FRC Charged Up! Robot Code! and Project Gamma.<br>I am fluent in Java, C++<br>I am intermediate in Python<br>I am learning C#<br>I am lead of programming on FRC Omegabytes 5727
+I am currently working on this years FRC Charged Up! Robot Code! and Project Gamma.<br>I am fluent in Java, C++<br>I am intermediate in Python<br>I am learning C#<br>I am lead of programming on FRC Lynk Robotics
 
 
 # 💻 Tech Stack:
@@ -8,9 +8,6 @@ I am currently working on this years FRC Charged Up! Robot Code! and Project Gam
 ![](https://github-readme-stats.vercel.app/api?username=witherslayer67&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=witherslayer67&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=witherslayer67&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=witherslayer67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=witherslayer67&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
