@@ -3,7 +3,7 @@ I am currently working on this years FRC Charged Up! Robot Code! and Project Gam
 I am fluent in Java, C++ <br>
 I am intermediate in Python <br>
 I am learning C# <br>
-I am a member of programming on FRC Lynk Robotics / 5727 Omegabytes Alumni
+I am a member of programming on 9496 Lynk / 5727 Omegabytes Alumni
 
 
 # 💻 Tech Stack:
