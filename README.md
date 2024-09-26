@@ -1,6 +1,6 @@
 # 💫 About Me:
 Robotics nerd, content creator, gamer, hyperfixated.
-I am a member of programming on 9496 Lynk / 5727 Omegabytes Alumni
+I am a member of programming on 9496 Lynk / 5727 Omegabytes Alumni.
 
 
 ## 🌐 Socials:
